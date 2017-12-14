@@ -1,0 +1,39 @@
+*, *:after, *:before {
+    box-sizing :border-box;
+}
+h2{
+    text-align: center;
+}
+.cnt{
+    margin-bottom: 30px;
+    border: 2px solid black;
+}
+.list{
+    width:20%;
+    padding:10px 20px;
+}
+
+a {
+    text-decoration: none;
+    color:white;
+  }
+
+  a:hover{
+      text-decoration: none;
+      color:black;
+  }
+.module{
+    padding: 20px;
+    text-align: center;
+    color: #eee;
+    max-height: 120px;
+    min-width: 120px;
+    background-color: #607D8B;
+    border-radius: 2px;
+}
+
+.module:hover {
+    background-color: #EEE;
+    cursor: pointer;
+    color: #607d8b;
+  }

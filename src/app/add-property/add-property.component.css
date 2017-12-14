@@ -1,0 +1,15 @@
+form { 
+    margin: 0 auto; 
+    width:250px;
+}
+
+label {
+        float: left;
+        width: 150px;
+        text-align: left;
+        margin-right: 0.5em;
+}
+ h2{
+    text-align: center;
+ }
+    
